@@ -1,0 +1,126 @@
+.banner{
+    height: 250px;
+    width: 880px;
+    
+}
+
+.arbol{
+    height: 50px;
+    float: left;
+    padding: 10px;
+}
+
+header{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+   margin: auto;
+
+}
+
+nav{
+    width: 880px;
+    height: 35px;
+    background-color: #488000;
+   
+}
+
+nav ul{
+    list-style: none;
+    text-align: left;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: black;
+}
+
+.fecha{
+    color: #488000;
+}
+
+
+
+aside{
+    float: left;
+    width: 300px;
+  margin: auto;
+  text-align: left;
+}
+
+
+main{
+    width: 800px;
+   margin: auto;
+  text-align: justify;
+}
+
+
+
+.titulo-segundo{
+    color: #488000;
+}
+
+.rana{
+    width: 200px;
+    height: 250px;
+    float: left;
+    padding: 15px;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: darkgreen;
+  
+}
+
+.principal{
+    background-color: white;
+    text-align: center;
+    width: 920px;
+    margin: auto;
+    
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/b9/1e/0f/b91e0fad2f85945b2aabac0d8080859a.jpg);
+   
+}
+
+footer{
+    width: 880px;
+    height: 35px;
+    background-color: #488000;
+    color: white;
+    margin: auto;
+    
+    
+}
+footer ul{
+    list-style: none;
+    text-align: center;
+}
+
+footer ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover{
+    color: black;
+}
